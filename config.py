@@ -6,7 +6,7 @@ settings = dict(
 	),
 	gitlab2 = dict(
 	    server = 'http://code.mavencode.com',		# New gitlab instance
-	    access_token = '1AY4qfjooCFyda7zzgvz',		# Admin access token
+	    access_token = 'rz64hxzFo34osr57kpsG',		# Admin access token
 	),
 	default_password = 'changeme',					# Default new password
 	total_users  = 100,								# Specify total # of users in old gitlab
