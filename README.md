@@ -1,5 +1,5 @@
 # gitlab2gitlab
-A quick python script to help me copy all my project repositories from one Gitlab instance to another via Gitlab API
+A quick python script to copy all project repositories from one Gitlab instance to another via the Gitlab API
 http://docs.gitlab.com/ee/api/
 
 
